@@ -12,7 +12,7 @@
   
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h2 align="center">Linguagens/Tecnologias conhecidas</h2>
+    <h2 align="center">Ferramentas, Linguagens e Tecnologias</h2>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -25,7 +25,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
   
-   <h2 align="center">Links relevantes</h2>
+   <h2 align="center">Links</h2>
  <div> 
   <a href="https://hub.docker.com/r/cecote/apache/tags" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thiagocecote" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
